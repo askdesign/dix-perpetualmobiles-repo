@@ -3570,15 +3570,6 @@ body {
 	line-height: 1.525;
 }
 
-body.custom-background {
-    background-color: #b3aeb1;
-    background-image: url(https://perpetualmobiles.com/wp-content/uploads/2014/10/perpetual-bkg-gradient1920.png);
-    background-position: 0 0;
-    background-size: auto;
-    background-repeat: repeat-y;
-    background-attachment: scroll;
-}
-
 a {
     color: #6b615e;
     font-weight: 400;
@@ -3777,7 +3768,7 @@ h6.author {
     background: none;
     clear: both;
     padding-top: 2.5rem;
-	min-height: calc(100vh - 200px);
+    min-height: 600px;
 }
 
 .home .site-inner .wrap {
